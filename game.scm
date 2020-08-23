@@ -1,4 +1,5 @@
-;; based on example given for the gl-utils egg
+;; author: Alexander Frederiksen
+;; date: August 23, 2020
 
 (import
   scheme
