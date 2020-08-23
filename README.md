@@ -1,4 +1,4 @@
-# Coimbox Hero in Chicken Scheme
+# Coinbox Hero in Chicken Scheme
 A chicken scheme game inspired by Coinbox Hero using a custom Reactive-ECS engine
 
 ## Compiling
